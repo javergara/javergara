@@ -25,7 +25,7 @@ My name is Alejandro, I'm from Colombia and I'm an electronic engineer passionat
 
 💬 Ask me about Python, ML and DL, Drones and image processing
 
-📫 How to reach me: All my social networks at to, feel free to contact me
+📫 How to reach me: All my social networks at top, feel free to contact me
 
 
 
