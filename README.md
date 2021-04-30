@@ -1,16 +1,31 @@
-### Hi there 👋
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=gqUiZj0AAAAJ&hl=en)
+[![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/javier-alejandro-vergara/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/dmlmont?style=social)](https://twitter.com/javergara91)
 
-<!--
-**javergara/javergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello and welcome! 👋
+
+My name is Alejandro, I'm from Colombia and I'm an electronic engineer passionate about data, ML, and software with a master in engineering.
+
+*🔭 Currently working for [CIAT](https://ciat.cgiar.org/phenomics-platform/) as **Machine learning engineer**, **data scientist** and research associate in [tumaini app](https://play.google.com/store/apps/details?id=ciat.cgiar.org.tumaini&hl=en&gl=US) an android app for disease detection using tensorflow and their object detection API
+
+*🌱 Master Thesis: "BananaGAN: Augmenting major banana disease classification using generated diseased pseudostem and rachis images". I used generative adversarial networks to generate artificial banana sick plants images to do data augmentation as input to train object detection deep learning models
+
+## Skills
+
+* Python, SQL, ML and DL, TensorFlow, SciKit-Learn, Pandas
+* Some basics and learning in Docker, AWS, PowerBI  
+* Interested in Backend and web development
+
+## Publications
+
+* [AI-powered banana diseases and pest detection](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0475-z)
+* [Detection of banana plants and their major diseases through aerial images and machine learning methods: A case study in DR Congo and Republic of Benin](https://www.sciencedirect.com/science/article/pii/S0924271620302410)
+
+- 💬 Ask me about Python, ML and DL, Drones and image processing
+
+- 📫 How to reach me: All my social networks at to, feel free to contact me
+
+
+
