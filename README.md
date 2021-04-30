@@ -1,6 +1,6 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=gqUiZj0AAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/javier-alejandro-vergara/)
-[![Twitter Badge](https://img.shields.io/twitter/follow/dmlmont?style=social)](https://twitter.com/javergara91)
+[![Twitter Badge](https://img.shields.io/twitter/follow/javergara?style=social)](https://twitter.com/javergara91)
 
 
 
@@ -23,9 +23,9 @@ My name is Alejandro, I'm from Colombia and I'm an electronic engineer passionat
 * [AI-powered banana diseases and pest detection](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0475-z)
 * [Detection of banana plants and their major diseases through aerial images and machine learning methods: A case study in DR Congo and Republic of Benin](https://www.sciencedirect.com/science/article/pii/S0924271620302410)
 
-- 💬 Ask me about Python, ML and DL, Drones and image processing
+💬 Ask me about Python, ML and DL, Drones and image processing
 
-- 📫 How to reach me: All my social networks at to, feel free to contact me
+📫 How to reach me: All my social networks at to, feel free to contact me
 
 
 
