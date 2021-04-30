@@ -25,9 +25,11 @@ My name is Alejandro, I'm from Colombia and I'm an electronic engineer passionat
 
 ## Speaker in:
 
+* International seminar new sensor technology for field phenotyping and precision agriculture 2021: "BananaGAN: Augmenting major banana disease
+classification using generated diseased images"
 * Pycon Colombia 2020: " Tumaini: A deep learning object detection API integrated to an android app, case of study in banana disease detection"
-* 5TH international conference on mitigation strategies for emerging infectious diseases: "Artificial intelligenc-Powered disease detection"
-* 1st IEEE Signal Processing Society Winter School on Image and Video Analysis: "Cassava modeling using machine learning models"
+* 5TH international conference on mitigation strategies for emerging infectious diseases 2019: "Artificial intelligenc-Powered disease detection"
+* 1st IEEE Signal Processing Society Winter School on Image and Video Analysis 2018: "Cassava modeling using machine learning models"
 
 💬 Ask me about Python, ML and DL, Drones and image processing
 
