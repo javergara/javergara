@@ -23,6 +23,12 @@ My name is Alejandro, I'm from Colombia and I'm an electronic engineer passionat
 * [AI-powered banana diseases and pest detection](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0475-z)
 * [Detection of banana plants and their major diseases through aerial images and machine learning methods: A case study in DR Congo and Republic of Benin](https://www.sciencedirect.com/science/article/pii/S0924271620302410)
 
+## Speaker in:
+
+* Pycon Colombia 2020: " Tumaini: A deep learning object detection API integrated to an android app, case of study in banana disease detection"
+* 5TH international conference on mitigation strategies for emerging infectious diseases: "Artificial intelligenc-Powered disease detection"
+* 1st IEEE Signal Processing Society Winter School on Image and Video Analysis: "Cassava modeling using machine learning models"
+
 💬 Ask me about Python, ML and DL, Drones and image processing
 
 📫 How to reach me: All my social networks at top, feel free to contact me
