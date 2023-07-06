@@ -8,7 +8,9 @@
 
 My name is Alejandro, I'm from Colombia and I'm an electronic engineer passionate about data, ML, and software with a master in engineering.
 
-* 🔭 Currently working for [CIAT](https://ciat.cgiar.org/phenomics-platform/) as **Machine learning engineer**, **data scientist** and research associate in [tumaini app](https://play.google.com/store/apps/details?id=ciat.cgiar.org.tumaini&hl=en&gl=US) an android app for disease detection using tensorflow and their object detection API
+* 🔭 Currently working for Mercado libre as **Machine learning engineer**,
+  
+* Worked in CIAT as **data scientist** and research associate in [tumaini app](https://play.google.com/store/apps/details?id=ciat.cgiar.org.tumaini&hl=en&gl=US) an android app for disease detection using tensorflow and their object detection API
 
 * 🌱 Honored Master Thesis: "BananaGAN: Augmenting major banana disease classification using generated diseased pseudostem and rachis images". I used generative adversarial networks to generate artificial banana sick plants images to do data augmentation as input to train object detection deep learning models
 
